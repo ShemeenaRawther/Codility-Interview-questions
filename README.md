@@ -1,1 +1,1 @@
-This project contain some of the codiltiy solved interview quesions
+This project contains some of the codiltiy solved interview questions
